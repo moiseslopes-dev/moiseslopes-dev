@@ -53,32 +53,29 @@ Sistema de controle de estoque, cadastro de produtos, gerenciamento de preços e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moiseslopes-dev&show_icons=true&theme=radical&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslopes-dev&layout=compact&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=moiseslopes-dev&show_icons=true&theme=radical&count_private=true"/>
 </p>
-
----
-
-## 🌐 Contato
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moiseslopesaviz123@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moisés-lopes-95a84838a)
-
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moiseslopes-dev)
-
----
-
-⭐ Seja bem-vindo ao meu perfil! Aqui compartilho minha evolução na programação, projetos desenvolvidos e novos aprendizados na área de tecnologia.
-
 
 ---
 
 ## 🌐 Redes Sociais
 
-https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white](https://github.com/moiseslopes-dev)
+<a href="https://github.com/moiseslopes-dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/moisés-lopes-95a84838a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/moises.lopees" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:moiseslopesaviz123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ---
 
-⭐ Seja bem-vindo ao meu perfil! Aqui compartilho meus estudos, projetos e evolução como desenvolvedor.
+⭐ Seja bem-vindo ao meu perfil! Aqui compartilho meus estudos, projetos e minha evolução na programação.
